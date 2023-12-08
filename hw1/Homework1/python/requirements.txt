@@ -1,0 +1,2 @@
+numpy==1.23.5
+scikit_image==0.19.3
